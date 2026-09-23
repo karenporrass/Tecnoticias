@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titulo": "Nuevas tecnologías transforman la educación",
+    "descripcion": "La tecnología continúa cambiando la manera en que estudiantes y docentes aprenden.",
+    "imagen": "https://images.unsplash.com/photo-1531482615713-2afd69097998",
+    "categoria": "Educación",
+    "contenido": "La incorporación de nuevas herramientas tecnológicas está transformando los procesos educativos. Plataformas digitales, inteligencia artificial y recursos interactivos permiten crear nuevas experiencias de aprendizaje.",
+    "fecha": "2026-09-15",
+    "autor": "Equipo Tecnoticias"
+  },
+  {
+    "id": 2,
+    "titulo": "La inteligencia artificial sigue creciendo",
+    "descripcion": "Las herramientas basadas en inteligencia artificial continúan evolucionando.",
+    "imagen": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+    "categoria": "Tecnología",
+    "contenido": "La inteligencia artificial se ha convertido en una de las tecnologías con mayor crecimiento durante los últimos años.",
+    "fecha": "2026-09-14",
+    "autor": "Equipo Tecnoticias"
+  },
+  {
+    "id": 3,
+    "titulo": "Destinos turísticos para descubrir",
+    "descripcion": "Conoce algunos destinos ideales para explorar nuevas experiencias.",
+    "imagen": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "categoria": "Turismo",
+    "contenido": "Colombia cuenta con una gran variedad de destinos turísticos que combinan naturaleza, cultura y aventura.",
+    "fecha": "2026-09-12",
+    "autor": "Equipo Tecnoticias"
+  },
+  {
+    "id": 4,
+    "titulo": "Nuevas oportunidades para los comercios",
+    "descripcion": "La transformación digital abre nuevas posibilidades para pequeños negocios.",
+    "imagen": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d",
+    "categoria": "Comercio",
+    "contenido": "Los pequeños comercios pueden aprovechar las herramientas digitales para mejorar sus procesos y llegar a nuevos clientes.",
+    "fecha": "2026-09-10",
+    "autor": "Equipo Tecnoticias"
+  }
+]
